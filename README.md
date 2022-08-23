@@ -1,6 +1,6 @@
 # how to get help in windows
 
-[![how to get help in windows](get-detail.png)](https://github.com/tech0issues/how.to.get.help.in.windows)
+[![how to get help in windows](get-detail.png)](https://computersolve.com/how-to-get-help-in-windows/)
 
 Here are a few different ways to find help for Windows
 
